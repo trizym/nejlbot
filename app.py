@@ -46,7 +46,7 @@ def makeWebhookResult(req):
         },
         {
             "type": "picture",
-            "picUrl": "https://raw.githubusercontent.com/svet4/apiai-kik-rich-formatting/master/pictures/item" + item +".png"
+            "picUrl": "https://raw.githubusercontent.com/trizym/nejlbot/master/pictures/kram1" + item +".png"
         }
     ]
 
