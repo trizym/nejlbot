@@ -43,10 +43,8 @@ def makeWebhookResult(req):
         {
             "type": "picture",
             "picUrl": "https://github.com/trizym/nejlbot/blob/master/pictures/kram1.png?raw=true" + item +".png"
-        },
-        {
             "type": "picture",
-            "picUrl": "https://github.com/trizym/nejlbot/blob/master/pictures/IMG_1387.png?raw=true" + item +".png"
+            "picUrl": "https://github.com/trizym/nejlbot/blob/master/pictures/kram1.png?raw=true" + item +".png"
         },
         {
             "type": "text",
