@@ -41,12 +41,13 @@ def makeWebhookResult(req):
 
     kik_message = [
         {
-            "type": "text",
-            "body": "Here's the picture of item " + item
-        },
-        {
             "type": "picture",
             "picUrl": "https://github.com/trizym/nejlbot/blob/master/pictures/kram1.png?raw=true" + item +".png"
+            "picUrl": "https://github.com/trizym/nejlbot/blob/master/pictures/IMG_1387.png?raw=true" + item +".png"
+        },
+        {
+            "type": "text",
+            "body": "Kram <3 " + item
         }
     ]
 
